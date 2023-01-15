@@ -1,0 +1,964 @@
+1667728655247	geckodriver	INFO	Listening on 127.0.0.1:50543
+1667728655745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50544" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileUlfAYB"
+1667728668035	Marionette	INFO	Marionette enabled
+2022-11-06 15:27:48.118 plugin-container[2490:27114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:48.118 plugin-container[2490:27114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:48.149 plugin-container[2490:27114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:48.149 plugin-container[2490:27114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:48.149 plugin-container[2490:27166] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:48.149 plugin-container[2490:27166] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728668202	Marionette	INFO	Listening on port 50556
+Read port: 50556
+WebDriver BiDi listening on ws://127.0.0.1:50544
+1667728668338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileUlfAYB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50544/devtools/browser/74c51cdd-432b-48e3-a53e-b1118bc153b5
+1667728669895	geckodriver	INFO	Listening on 127.0.0.1:50575
+1667728670401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50576" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileU4J0aW"
+2022-11-06 15:27:50.869 plugin-container[2507:27547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:50.869 plugin-container[2507:27547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:50.872 plugin-container[2507:27547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:50.872 plugin-container[2507:27547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:50.872 plugin-container[2507:27554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:50.872 plugin-container[2507:27554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728670896	Marionette	INFO	Marionette enabled
+1667728670924	Marionette	INFO	Listening on port 50586
+Read port: 50586
+WebDriver BiDi listening on ws://127.0.0.1:50576
+1667728671070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileU4J0aW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50576/devtools/browser/16eebdec-f63b-4b1e-96c4-494ada037507
+1667728672411	geckodriver	INFO	Listening on 127.0.0.1:50611
+1667728672922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50612" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileJq96Dn"
+2022-11-06 15:27:53.358 plugin-container[2517:27853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:53.358 plugin-container[2517:27853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:53.361 plugin-container[2517:27853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:53.361 plugin-container[2517:27853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:53.361 plugin-container[2517:27858] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:53.361 plugin-container[2517:27858] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728673382	Marionette	INFO	Marionette enabled
+1667728673517	Marionette	INFO	Listening on port 50625
+Read port: 50625
+WebDriver BiDi listening on ws://127.0.0.1:50612
+1667728673622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileJq96Dn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50612/devtools/browser/568a7f83-0d28-4e06-9530-eaa1bdc178bb
+1667728674866	geckodriver	INFO	Listening on 127.0.0.1:50652
+1667728675372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50653" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilesgiocc"
+2022-11-06 15:27:55.802 plugin-container[2523:28111] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:55.802 plugin-container[2523:28111] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:55.805 plugin-container[2523:28111] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:55.805 plugin-container[2523:28111] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:55.805 plugin-container[2523:28119] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:55.805 plugin-container[2523:28119] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728675827	Marionette	INFO	Marionette enabled
+1667728675965	Marionette	INFO	Listening on port 50668
+Read port: 50668
+WebDriver BiDi listening on ws://127.0.0.1:50653
+1667728676071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilesgiocc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50653/devtools/browser/42d83927-f7b4-4ae2-a031-b9c4d10d9d05
+1667728677404	geckodriver	INFO	Listening on 127.0.0.1:50679
+1667728677917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50680" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile5FfHMh"
+2022-11-06 15:27:58.367 plugin-container[2529:28372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:58.367 plugin-container[2529:28372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:58.370 plugin-container[2529:28372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:58.370 plugin-container[2529:28372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:27:58.370 plugin-container[2529:28374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:27:58.370 plugin-container[2529:28374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728678390	Marionette	INFO	Marionette enabled
+1667728678531	Marionette	INFO	Listening on port 50705
+Read port: 50705
+WebDriver BiDi listening on ws://127.0.0.1:50680
+1667728678643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile5FfHMh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50680/devtools/browser/0c2a459c-57be-4b63-892d-aeb8960ca0f0
+1667728679932	geckodriver	INFO	Listening on 127.0.0.1:50738
+1667728680442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50739" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileZSuwDW"
+2022-11-06 15:28:00.870 plugin-container[2535:28668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:00.871 plugin-container[2535:28668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:00.873 plugin-container[2535:28668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:00.873 plugin-container[2535:28668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:00.873 plugin-container[2535:28674] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:00.873 plugin-container[2535:28674] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728680893	Marionette	INFO	Marionette enabled
+1667728681032	Marionette	INFO	Listening on port 50756
+Read port: 50756
+WebDriver BiDi listening on ws://127.0.0.1:50739
+1667728681142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileZSuwDW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50739/devtools/browser/5481a051-0ac6-4bd6-b19b-2f4a3d7ce99c
+1667728682526	geckodriver	INFO	Listening on 127.0.0.1:50795
+1667728683035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile6N0vcN"
+2022-11-06 15:28:03.484 plugin-container[2543:28974] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:03.484 plugin-container[2543:28974] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:03.487 plugin-container[2543:28974] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:03.487 plugin-container[2543:28974] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:03.487 plugin-container[2543:28982] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:03.487 plugin-container[2543:28982] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728683510	Marionette	INFO	Marionette enabled
+1667728683542	Marionette	INFO	Listening on port 50809
+Read port: 50809
+WebDriver BiDi listening on ws://127.0.0.1:50796
+1667728683692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile6N0vcN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50796/devtools/browser/f2740999-b094-495c-ac8f-0485f32addc7
+1667728685025	geckodriver	INFO	Listening on 127.0.0.1:50832
+1667728685541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50833" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilem3mZLr"
+2022-11-06 15:28:06.015 plugin-container[2549:29284] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:06.015 plugin-container[2549:29284] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:06.018 plugin-container[2549:29284] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:06.018 plugin-container[2549:29284] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:06.018 plugin-container[2549:29289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:06.018 plugin-container[2549:29289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728686037	Marionette	INFO	Marionette enabled
+1667728686066	Marionette	INFO	Listening on port 50850
+Read port: 50850
+WebDriver BiDi listening on ws://127.0.0.1:50833
+1667728686224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilem3mZLr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50833/devtools/browser/cf9c30ec-2bb8-4b07-986e-554df53e6cc6
+1667728687560	geckodriver	INFO	Listening on 127.0.0.1:50877
+1667728688076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50878" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilenfy0hW"
+2022-11-06 15:28:08.539 plugin-container[2555:29584] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:08.539 plugin-container[2555:29584] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:08.542 plugin-container[2555:29584] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:08.542 plugin-container[2555:29584] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:08.543 plugin-container[2555:29582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:08.543 plugin-container[2555:29582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728688564	Marionette	INFO	Marionette enabled
+1667728688704	Marionette	INFO	Listening on port 50894
+Read port: 50894
+WebDriver BiDi listening on ws://127.0.0.1:50878
+1667728688823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilenfy0hW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50878/devtools/browser/e7659d03-c923-4305-a9e9-691cdf42a2d4
+1667728690168	geckodriver	INFO	Listening on 127.0.0.1:50923
+1667728690675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50924" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilePtftI1"
+2022-11-06 15:28:11.147 plugin-container[2561:29849] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:11.147 plugin-container[2561:29849] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:11.151 plugin-container[2561:29849] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:11.151 plugin-container[2561:29849] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:11.152 plugin-container[2561:29875] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:11.152 plugin-container[2561:29875] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728691163	Marionette	INFO	Marionette enabled
+1667728691195	Marionette	INFO	Listening on port 50943
+Read port: 50943
+WebDriver BiDi listening on ws://127.0.0.1:50924
+1667728691352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilePtftI1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50924/devtools/browser/1be54f95-915f-484d-8d61-e7f7e64b85e7
+2022-11-06 09:58:25.343 plugin-container[2579:30486] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:25.343 plugin-container[2579:30486] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:25.350 plugin-container[2579:30486] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:25.350 plugin-container[2579:30486] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:25.350 plugin-container[2579:30529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:25.350 plugin-container[2579:30529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:26.228 plugin-container[2587:30591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.228 plugin-container[2587:30591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:26.234 plugin-container[2587:30591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.234 plugin-container[2587:30591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:26.235 plugin-container[2587:30624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.235 plugin-container[2587:30624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728706732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:26.841 plugin-container[2585:30574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.841 plugin-container[2585:30574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:26.850 plugin-container[2585:30574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.850 plugin-container[2585:30574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:26.850 plugin-container[2585:30682] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:26.850 plugin-container[2585:30682] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667728707448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:27.507 plugin-container[2595:30707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:27.507 plugin-container[2595:30707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:27.512 plugin-container[2595:30707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:27.512 plugin-container[2595:30707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:27.513 plugin-container[2595:30763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:27.513 plugin-container[2595:30763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667728708680	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:29.174 plugin-container[2601:30960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:29.175 plugin-container[2601:30960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:29.217 plugin-container[2601:30960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:29.217 plugin-container[2601:30960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:29.217 plugin-container[2601:30961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:29.217 plugin-container[2601:30961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728709703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:30.621 plugin-container[2609:31052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:30.622 plugin-container[2609:31052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:30.628 plugin-container[2609:31052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:30.629 plugin-container[2609:31052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:30.630 plugin-container[2609:31086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:30.630 plugin-container[2609:31086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667728711737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667728711850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:31.867 plugin-container[2607:31037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:31.867 plugin-container[2607:31037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:31.873 plugin-container[2607:31037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:31.873 plugin-container[2607:31037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:31.874 plugin-container[2607:31186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:31.874 plugin-container[2607:31186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:33.127 plugin-container[2615:31336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:33.127 plugin-container[2615:31336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:33.138 plugin-container[2615:31336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:33.138 plugin-container[2615:31336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:33.138 plugin-container[2615:31338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:33.138 plugin-container[2615:31338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:34.821 plugin-container[2616:31370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:34.821 plugin-container[2616:31370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:34.826 plugin-container[2616:31370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:34.826 plugin-container[2616:31370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:34.826 plugin-container[2616:31485] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:34.826 plugin-container[2616:31485] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:35.035 plugin-container[2619:31394] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.036 plugin-container[2619:31394] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:35.039 plugin-container[2619:31394] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.039 plugin-container[2619:31394] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:35.040 plugin-container[2619:31472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.040 plugin-container[2619:31472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:35.142 plugin-container[2620:31412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.142 plugin-container[2620:31412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:35.150 plugin-container[2620:31412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.150 plugin-container[2620:31412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:35.152 plugin-container[2620:31518] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:35.152 plugin-container[2620:31518] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667728715768	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667728716281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:58:36.289 plugin-container[2623:31461] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:36.289 plugin-container[2623:31461] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:36.303 plugin-container[2623:31461] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:36.303 plugin-container[2623:31461] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:36.303 plugin-container[2623:31639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:36.303 plugin-container[2623:31639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:37.279 plugin-container[2624:31465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:37.279 plugin-container[2624:31465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:37.286 plugin-container[2624:31465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:37.286 plugin-container[2624:31465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:37.287 plugin-container[2624:31693] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:37.287 plugin-container[2624:31693] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:38.093 plugin-container[2635:31718] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.093 plugin-container[2635:31718] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:38.099 plugin-container[2635:31718] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.099 plugin-container[2635:31718] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:38.100 plugin-container[2635:31760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.100 plugin-container[2635:31760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:38.134 plugin-container[2632:31688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.134 plugin-container[2632:31688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:38.144 plugin-container[2632:31688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.144 plugin-container[2632:31688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:38.144 plugin-container[2632:31800] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:38.144 plugin-container[2632:31800] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:58:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667728718794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:58:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 09:58:44.852 plugin-container[2643:32198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:44.853 plugin-container[2643:32198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:44.860 plugin-container[2643:32198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:44.860 plugin-container[2643:32198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:58:44.861 plugin-container[2643:32204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:58:44.861 plugin-container[2643:32204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667728737493	geckodriver	INFO	Listening on 127.0.0.1:51679
+1667728737509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51680" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileXmTdQr"
+2022-11-06 15:28:57.988 plugin-container[2673:32756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:57.989 plugin-container[2673:32756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:57.991 plugin-container[2673:32756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:57.991 plugin-container[2673:32756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:28:57.991 plugin-container[2673:32764] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:28:57.991 plugin-container[2673:32764] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728738013	Marionette	INFO	Marionette enabled
+1667728738167	Marionette	INFO	Listening on port 51683
+WebDriver BiDi listening on ws://127.0.0.1:51680
+Read port: 51683
+1667728738285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileXmTdQr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51680/devtools/browser/93771dc1-d3ec-424e-b9cd-4f1506325eca
+2022-11-06 09:59:04.074 plugin-container[2696:33173] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:04.074 plugin-container[2696:33173] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:59:04.077 plugin-container[2696:33173] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:04.077 plugin-container[2696:33173] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:59:04.078 plugin-container[2696:33172] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:04.078 plugin-container[2696:33172] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728744966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 09:59:05.111 plugin-container[2715:33313] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:05.111 plugin-container[2715:33313] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:59:05.114 plugin-container[2715:33313] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:05.114 plugin-container[2715:33313] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 09:59:05.114 plugin-container[2715:33312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 09:59:05.114 plugin-container[2715:33312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T09:59:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667728944757	geckodriver	INFO	Listening on 127.0.0.1:52485
+1667728944769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52486" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileYcdCcm"
+1667728945364	Marionette	INFO	Marionette enabled
+2022-11-06 15:32:25.382 plugin-container[2863:36207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:32:25.387 plugin-container[2863:36207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:32:25.424 plugin-container[2863:36207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:32:25.424 plugin-container[2863:36207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:32:25.424 plugin-container[2863:36234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:32:25.424 plugin-container[2863:36234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728945460	Marionette	INFO	Listening on port 52489
+Read port: 52489
+WebDriver BiDi listening on ws://127.0.0.1:52486
+1667728945709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileYcdCcm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52486/devtools/browser/8c058098-0a28-4f3a-bb8b-4e3b7abf18bd
+2022-11-06 10:02:32.189 plugin-container[2874:36532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:32.189 plugin-container[2874:36532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:02:32.192 plugin-container[2874:36532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:32.192 plugin-container[2874:36532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:02:32.193 plugin-container[2874:36546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:32.193 plugin-container[2874:36546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667728953074	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:02:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3321: TypeError: can't access dead object
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:02:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:02:35.306 plugin-container[2877:36676] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:35.306 plugin-container[2877:36676] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:02:35.309 plugin-container[2877:36676] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:35.309 plugin-container[2877:36676] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:02:35.309 plugin-container[2877:36679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:02:35.309 plugin-container[2877:36679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 1169: TypeError: toggle is null
+1667729248733	geckodriver	INFO	Listening on 127.0.0.1:52913
+1667729249261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52914" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiletVqlMd"
+1667729249878	Marionette	INFO	Marionette enabled
+2022-11-06 15:37:29.875 plugin-container[3007:40357] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:29.878 plugin-container[3007:40357] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:37:29.908 plugin-container[3007:40357] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:29.908 plugin-container[3007:40357] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:37:29.909 plugin-container[3007:40361] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:29.909 plugin-container[3007:40361] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729250049	Marionette	INFO	Listening on port 52919
+Read port: 52919
+WebDriver BiDi listening on ws://127.0.0.1:52914
+1667729250167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiletVqlMd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52914/devtools/browser/30450ace-3495-42fa-9e3d-24921f927b80
+1667729253884	Marionette	INFO	Stopped listening on port 52489
+2022-11-06 10:07:36.455 plugin-container[3029:40816] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:36.455 plugin-container[3029:40816] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:07:36.458 plugin-container[3029:40816] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:36.458 plugin-container[3029:40816] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:07:36.458 plugin-container[3029:40819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:36.458 plugin-container[3029:40819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729257328	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:07:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:07:39.384 plugin-container[3032:40929] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:39.384 plugin-container[3032:40929] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:07:39.387 plugin-container[3032:40929] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:39.387 plugin-container[3032:40929] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:07:39.387 plugin-container[3032:40928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:07:39.387 plugin-container[3032:40928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667729277132	geckodriver	INFO	Listening on 127.0.0.1:53039
+1667729277139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53040" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile61LDnC"
+2022-11-06 15:37:57.572 plugin-container[3043:41377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:57.572 plugin-container[3043:41377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:37:57.575 plugin-container[3043:41377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:57.575 plugin-container[3043:41377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:37:57.575 plugin-container[3043:41385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:37:57.575 plugin-container[3043:41385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729277598	Marionette	INFO	Marionette enabled
+1667729277630	Marionette	INFO	Listening on port 53043
+Read port: 53043
+WebDriver BiDi listening on ws://127.0.0.1:53040
+1667729277764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile61LDnC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53040/devtools/browser/db03583b-af11-4378-bf5b-82e1c5aaf42b
+2022-11-06 10:08:04.111 plugin-container[3060:41700] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:04.111 plugin-container[3060:41700] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:08:04.114 plugin-container[3060:41700] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:04.114 plugin-container[3060:41700] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:08:04.115 plugin-container[3060:41702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:04.115 plugin-container[3060:41702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729284990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 10:08:05.140 plugin-container[3067:41801] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:05.141 plugin-container[3067:41801] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:08:05.143 plugin-container[3067:41801] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:05.143 plugin-container[3067:41801] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:08:05.144 plugin-container[3067:41802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:08:05.144 plugin-container[3067:41802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3321: TypeError: can't access dead object
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:08:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667729409965	geckodriver	INFO	Listening on 127.0.0.1:53194
+1667729409978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53195" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile89wjEa"
+1667729410592	Marionette	INFO	Marionette enabled
+2022-11-06 15:40:10.612 plugin-container[3097:43389] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:10.617 plugin-container[3097:43389] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:10.653 plugin-container[3097:43389] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:10.653 plugin-container[3097:43389] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:10.654 plugin-container[3097:43391] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:10.654 plugin-container[3097:43391] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729410721	Marionette	INFO	Listening on port 53198
+Read port: 53198
+WebDriver BiDi listening on ws://127.0.0.1:53195
+1667729410907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile89wjEa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53195/devtools/browser/56b14cbb-6b34-4273-941d-db4ac7c12299
+1667729412617	geckodriver	INFO	Listening on 127.0.0.1:53217
+1667729413126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53218" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileSgrare"
+2022-11-06 15:40:13.535 plugin-container[3108:43725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:13.535 plugin-container[3108:43725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:13.542 plugin-container[3108:43725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:13.542 plugin-container[3108:43725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:13.543 plugin-container[3108:43728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:13.543 plugin-container[3108:43728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729413555	Marionette	INFO	Marionette enabled
+1667729413591	Marionette	INFO	Listening on port 53225
+Read port: 53225
+WebDriver BiDi listening on ws://127.0.0.1:53218
+1667729413861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileSgrare/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53218/devtools/browser/03ab5f91-c3bc-4fb6-b093-25362d10d100
+1667729415192	geckodriver	INFO	Listening on 127.0.0.1:53251
+1667729415706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53252" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilejzo4K2"
+2022-11-06 15:40:16.137 plugin-container[3114:43977] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:16.137 plugin-container[3114:43977] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:16.140 plugin-container[3114:43977] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:16.140 plugin-container[3114:43977] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:16.140 plugin-container[3114:43983] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:16.140 plugin-container[3114:43983] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729416163	Marionette	INFO	Marionette enabled
+1667729416300	Marionette	INFO	Listening on port 53261
+Read port: 53261
+WebDriver BiDi listening on ws://127.0.0.1:53252
+1667729416405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilejzo4K2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53252/devtools/browser/3ddaf805-876f-4dba-85b2-9ab34ae44cc4
+1667729417750	geckodriver	INFO	Listening on 127.0.0.1:53288
+1667729418264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53289" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilere9Npt"
+2022-11-06 15:40:18.720 plugin-container[3120:44221] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:18.721 plugin-container[3120:44221] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:18.723 plugin-container[3120:44221] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:18.724 plugin-container[3120:44221] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:18.724 plugin-container[3120:44223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:18.724 plugin-container[3120:44223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729418747	Marionette	INFO	Marionette enabled
+1667729418887	Marionette	INFO	Listening on port 53302
+Read port: 53302
+WebDriver BiDi listening on ws://127.0.0.1:53289
+1667729419000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilere9Npt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53289/devtools/browser/6b076990-cbc1-49f3-8935-b9ed86dfbbf4
+1667729420335	geckodriver	INFO	Listening on 127.0.0.1:53321
+1667729420844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53322" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiledp3SeF"
+2022-11-06 15:40:21.304 plugin-container[3126:44488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:21.304 plugin-container[3126:44488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:21.306 plugin-container[3126:44488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:21.306 plugin-container[3126:44488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:40:21.307 plugin-container[3126:44496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:40:21.307 plugin-container[3126:44496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729421332	Marionette	INFO	Marionette enabled
+1667729421473	Marionette	INFO	Listening on port 53344
+WebDriver BiDi listening on ws://127.0.0.1:53322
+Read port: 53344
+1667729421704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiledp3SeF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53322/devtools/browser/465b0139-34e4-43c6-85c6-f1b07941a3ac
+2022-11-06 10:10:33.074 plugin-container[3132:44958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.074 plugin-container[3132:44958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.089 plugin-container[3132:44958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.089 plugin-container[3132:44958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.090 plugin-container[3132:44954] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.090 plugin-container[3132:44954] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.389 plugin-container[3137:44996] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.389 plugin-container[3137:44996] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.394 plugin-container[3137:44996] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.394 plugin-container[3137:44996] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.395 plugin-container[3137:45036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.395 plugin-container[3137:45036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.968 plugin-container[3142:45094] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.969 plugin-container[3142:45094] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.978 plugin-container[3142:45094] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.995 plugin-container[3142:45094] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:33.998 plugin-container[3142:45131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:33.998 plugin-container[3142:45131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729434310	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667729434558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:10:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667729435140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:10:35.747 plugin-container[3147:45273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:35.747 plugin-container[3147:45273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:35.751 plugin-container[3147:45273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:35.751 plugin-container[3147:45273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:35.752 plugin-container[3147:45326] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:35.752 plugin-container[3147:45326] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667729436758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:10:40.649 plugin-container[3158:45565] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.649 plugin-container[3158:45565] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:40.652 plugin-container[3158:45565] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.652 plugin-container[3158:45565] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:40.653 plugin-container[3158:45639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.653 plugin-container[3158:45639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:40.804 plugin-container[3159:45659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.805 plugin-container[3159:45659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:40.829 plugin-container[3159:45659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.829 plugin-container[3159:45659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:40.830 plugin-container[3159:45654] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:40.830 plugin-container[3159:45654] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.187 plugin-container[3162:45702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.188 plugin-container[3162:45702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.201 plugin-container[3162:45702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.201 plugin-container[3162:45702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.202 plugin-container[3162:45707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.202 plugin-container[3162:45707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.243 plugin-container[3163:45691] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.243 plugin-container[3163:45691] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.250 plugin-container[3163:45691] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.250 plugin-container[3163:45691] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:41.250 plugin-container[3163:45714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:41.250 plugin-container[3163:45714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667729441557	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 10:10:42.054 plugin-container[3164:45820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:42.054 plugin-container[3164:45820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:42.058 plugin-container[3164:45820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:42.058 plugin-container[3164:45820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:42.059 plugin-container[3164:45822] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:42.059 plugin-container[3164:45822] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:10:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:10:46.205 plugin-container[3171:46009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:46.205 plugin-container[3171:46009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:46.209 plugin-container[3171:46009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:46.209 plugin-container[3171:46009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:10:46.209 plugin-container[3171:46012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:10:46.209 plugin-container[3171:46012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729748662	Marionette	INFO	Stopped listening on port 53198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667729750449	Marionette	INFO	Stopped listening on port 53225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667729752371	Marionette	INFO	Stopped listening on port 53261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667729755313	Marionette	INFO	Stopped listening on port 53302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667729757429	Marionette	INFO	Stopped listening on port 53344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667729760843	geckodriver	INFO	Listening on 127.0.0.1:54005
+1667729761367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54006" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilezk7v5O"
+2022-11-06 15:46:01.896 plugin-container[3234:50737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:01.896 plugin-container[3234:50737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:01.899 plugin-container[3234:50737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:01.899 plugin-container[3234:50737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:01.900 plugin-container[3234:50742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:01.900 plugin-container[3234:50742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729761923	Marionette	INFO	Marionette enabled
+1667729761957	Marionette	INFO	Listening on port 54011
+Read port: 54011
+WebDriver BiDi listening on ws://127.0.0.1:54006
+1667729762089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilezk7v5O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54006/devtools/browser/b53c90ab-1adc-4d53-b92c-d7fa75eb7b9e
+1667729763521	geckodriver	INFO	Listening on 127.0.0.1:54030
+1667729764036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54031" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiletJ98PE"
+2022-11-06 15:46:04.469 plugin-container[3245:51043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:04.469 plugin-container[3245:51043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:04.472 plugin-container[3245:51043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:04.472 plugin-container[3245:51043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:04.472 plugin-container[3245:51049] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:04.472 plugin-container[3245:51049] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729764491	Marionette	INFO	Marionette enabled
+1667729764521	Marionette	INFO	Listening on port 54038
+Read port: 54038
+WebDriver BiDi listening on ws://127.0.0.1:54031
+1667729764651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofiletJ98PE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54031/devtools/browser/1a043f81-d1c3-4273-bc52-616c5b6302b6
+1667729765956	geckodriver	INFO	Listening on 127.0.0.1:54061
+1667729766466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54062" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileXIN9lQ"
+2022-11-06 15:46:06.907 plugin-container[3251:51291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:06.907 plugin-container[3251:51291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:06.910 plugin-container[3251:51291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:06.910 plugin-container[3251:51291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:06.910 plugin-container[3251:51295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:06.910 plugin-container[3251:51295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729766931	Marionette	INFO	Marionette enabled
+1667729767067	Marionette	INFO	Listening on port 54071
+Read port: 54071
+WebDriver BiDi listening on ws://127.0.0.1:54062
+1667729767174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileXIN9lQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54062/devtools/browser/b61898f2-ebda-4f8b-be74-06dffa3e8d45
+1667729768480	geckodriver	INFO	Listening on 127.0.0.1:54098
+1667729768990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54099" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile2vCpYw"
+2022-11-06 15:46:09.419 plugin-container[3257:51546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:09.420 plugin-container[3257:51546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:09.422 plugin-container[3257:51546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:09.422 plugin-container[3257:51546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:09.422 plugin-container[3257:51544] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:09.422 plugin-container[3257:51544] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729769445	Marionette	INFO	Marionette enabled
+1667729769585	Marionette	INFO	Listening on port 54112
+Read port: 54112
+WebDriver BiDi listening on ws://127.0.0.1:54099
+1667729769696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofile2vCpYw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54099/devtools/browser/2b716678-7164-4885-86d6-222dfb64441f
+1667729771047	geckodriver	INFO	Listening on 127.0.0.1:54137
+1667729771562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54138" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilenEU5YG"
+2022-11-06 15:46:12.000 plugin-container[3263:51805] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:12.001 plugin-container[3263:51805] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:12.003 plugin-container[3263:51805] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:12.003 plugin-container[3263:51805] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:46:12.003 plugin-container[3263:51807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:46:12.003 plugin-container[3263:51807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729772026	Marionette	INFO	Marionette enabled
+1667729772165	Marionette	INFO	Listening on port 54149
+Read port: 54149
+WebDriver BiDi listening on ws://127.0.0.1:54138
+1667729772273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilenEU5YG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54138/devtools/browser/b33160c7-0fbf-43e7-a252-fb7b7eaca3f8
+2022-11-06 10:16:23.571 plugin-container[3275:52274] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:23.571 plugin-container[3275:52274] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:23.582 plugin-container[3275:52274] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:23.582 plugin-container[3275:52274] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:23.583 plugin-container[3275:52282] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:23.583 plugin-container[3275:52282] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729784491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:16:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:16:26.156 plugin-container[3290:52417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:26.156 plugin-container[3290:52417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:26.164 plugin-container[3290:52417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:26.164 plugin-container[3290:52417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:26.164 plugin-container[3290:52421] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:26.164 plugin-container[3290:52421] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729787052	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:16:27.517 plugin-container[3293:52562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:27.517 plugin-container[3293:52562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:27.530 plugin-container[3293:52562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:27.530 plugin-container[3293:52562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:27.532 plugin-container[3293:52563] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:27.532 plugin-container[3293:52563] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:30.722 plugin-container[3296:52631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:30.722 plugin-container[3296:52631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:30.739 plugin-container[3296:52631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:30.739 plugin-container[3296:52631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:30.739 plugin-container[3296:52630] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:30.739 plugin-container[3296:52630] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:31.206 plugin-container[3301:52704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:31.206 plugin-container[3301:52704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:31.213 plugin-container[3301:52704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:31.216 plugin-container[3301:52704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:31.218 plugin-container[3301:52721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:31.218 plugin-container[3301:52721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729791779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667729792326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:16:34.606 plugin-container[3304:52919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:34.606 plugin-container[3304:52919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:34.611 plugin-container[3304:52919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:34.611 plugin-container[3304:52919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:34.611 plugin-container[3304:52921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:34.611 plugin-container[3304:52921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:16:36.158 plugin-container[3305:52997] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:36.158 plugin-container[3305:52997] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:36.167 plugin-container[3305:52997] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:36.167 plugin-container[3305:52997] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:36.167 plugin-container[3305:52999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:36.167 plugin-container[3305:52999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-11-06 10:16:40.912 plugin-container[3306:53102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:40.912 plugin-container[3306:53102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:40.919 plugin-container[3306:53102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:40.919 plugin-container[3306:53102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:40.919 plugin-container[3306:53101] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:40.919 plugin-container[3306:53101] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:46.896 plugin-container[3309:53261] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:46.896 plugin-container[3309:53261] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:46.902 plugin-container[3309:53261] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:46.902 plugin-container[3309:53261] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:46.904 plugin-container[3309:53266] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:46.904 plugin-container[3309:53266] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667729808033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-11-06 10:16:48.284 plugin-container[3312:53352] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:48.284 plugin-container[3312:53352] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:48.305 plugin-container[3312:53352] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:48.305 plugin-container[3312:53352] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 10:16:48.306 plugin-container[3312:53345] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 10:16:48.306 plugin-container[3312:53345] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-11-06T10:16:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-06T10:16:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667729993744	Marionette	INFO	Stopped listening on port 54071
+1667730001075	Marionette	INFO	Stopped listening on port 54011
+1667730002830	Marionette	INFO	Stopped listening on port 54112
+1667730007540	Marionette	INFO	Stopped listening on port 54149
+1667730017188	Marionette	INFO	Stopped listening on port 54038
+1667730021848	geckodriver	INFO	Listening on 127.0.0.1:55154
+1667730021860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55155" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilewRU05N"
+1667730022508	Marionette	INFO	Marionette enabled
+2022-11-06 15:50:22.528 plugin-container[3491:57746] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:22.533 plugin-container[3491:57746] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:50:22.596 plugin-container[3491:57746] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:22.596 plugin-container[3491:57746] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:50:22.597 plugin-container[3491:57772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:22.614 plugin-container[3491:57772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730022696	Marionette	INFO	Listening on port 55168
+WebDriver BiDi listening on ws://127.0.0.1:55155
+Read port: 55168
+1667730022911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofilewRU05N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55155/devtools/browser/9584fe41-a8d5-4045-ab13-d8dc67716dca
+1667730043713	geckodriver	INFO	Listening on 127.0.0.1:55316
+1667730043724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55317" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileMuKTm7"
+2022-11-06 15:50:44.288 plugin-container[3504:58362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:44.291 plugin-container[3504:58362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730044292	Marionette	INFO	Marionette enabled
+2022-11-06 15:50:44.311 plugin-container[3504:58362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:44.311 plugin-container[3504:58362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:50:44.312 plugin-container[3504:58365] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:50:44.312 plugin-container[3504:58365] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730044404	Marionette	INFO	Listening on port 55320
+Read port: 55320
+WebDriver BiDi listening on ws://127.0.0.1:55317
+1667730044623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileMuKTm7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55317/devtools/browser/1394fd25-34fe-4de3-9598-2ee7d620ff3c
+1667730073583	geckodriver	INFO	Listening on 127.0.0.1:55461
+1667730073595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55462" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileo7TCyX"
+2022-11-06 15:51:14.136 plugin-container[3517:59083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:14.139 plugin-container[3517:59083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730074148	Marionette	INFO	Marionette enabled
+2022-11-06 15:51:14.168 plugin-container[3517:59083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:14.168 plugin-container[3517:59083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:51:14.169 plugin-container[3517:59085] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:14.169 plugin-container[3517:59085] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730074311	Marionette	INFO	Listening on port 55465
+Read port: 55465
+WebDriver BiDi listening on ws://127.0.0.1:55462
+1667730074541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileo7TCyX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55462/devtools/browser/e9bc107e-f6c0-44fa-9179-587b1941bd8c
+1667730087873	Marionette	INFO	Stopped listening on port 55168
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667730089980	Marionette	INFO	Stopped listening on port 55320
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667730092098	Marionette	INFO	Stopped listening on port 55465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667730094610	geckodriver	INFO	Listening on 127.0.0.1:55649
+1667730094623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55650" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileflhc5z"
+1667730095209	Marionette	INFO	Marionette enabled
+2022-11-06 15:51:35.215 plugin-container[3531:59737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:35.220 plugin-container[3531:59737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:51:35.252 plugin-container[3531:59737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:35.252 plugin-container[3531:59737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-06 15:51:35.252 plugin-container[3531:59739] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-06 15:51:35.252 plugin-container[3531:59739] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667730095304	Marionette	INFO	Listening on port 55655
+Read port: 55655
+WebDriver BiDi listening on ws://127.0.0.1:55650
+1667730095587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f3/c078vhh92nn96z34l9hg25840000gr/T/rust_mozprofileflhc5z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55650/devtools/browser/90ac0b9a-1bfe-4c63-93da-f8b1bd05ef3d
+JavaScript warning: chrome://browser/content/certerror/aboutNetError.js, line 387: Script terminated by timeout at:
+initPage/hasPrefStyleError<@chrome://browser/content/certerror/aboutNetError.js:387:5
+initPage@chrome://browser/content/certerror/aboutNetError.js:385:7
+@chrome://browser/content/certerror/aboutNetError.js:1200:3
+
+1667730124458	Marionette	INFO	Stopped listening on port 55655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
