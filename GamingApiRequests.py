@@ -5,7 +5,7 @@ import multiprocessing
 import time
 import platform
 
-gaming_url = "http://gaming-viewability.k8s.dev.303net.net/gaming/ias/v1/viewability"
+gaming_url = "http://3denvironments.adsafeprotected.com/gaming/ias/v1/viewability"
 sentIDs = {}
 
 n = 0

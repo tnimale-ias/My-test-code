@@ -25,7 +25,7 @@ def view_Video(duration, tab):
     drivers[tab].close()
     return
 
-m = 1
+m = 10
 duration = 200
 tab = 0
 
