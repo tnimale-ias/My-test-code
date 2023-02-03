@@ -23,7 +23,7 @@ for filename in string.gmatch(filelist, "%S+") do
 if has_dot(filename) then
         os.remove(path .. filename)
 else
-        delete_dir(path .. filename .. "/")
+        pcall(delete_dir, path .. filename .. "/")
         print(path .. filename .. "/")
 end
 end
@@ -31,5 +31,8 @@ end
 end
 
 
-delete_dir("/test/")
+print(pcall(delete_dir, "/test1/"))
+pcall(delete_dir, "/test/")
+
+
 
